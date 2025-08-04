@@ -7,9 +7,11 @@ Welcome to the Food Delivery Website repository created by Vishal! 🍽️
 This project is a dynamic and user-friendly food delivery website developed using HTML, CSS, and JavaScript. It offers an immersive experience for users to browse, select, and order from a wide range of culinary options.
 
 ## Screenshots
-https://github.com/Vishal212al/vishal1212al-food-ordering/blob/0edde007782093cb8ab6b9e1fb8489de5b0f79bb/food%20delivery%20website%20home.png
+<img width="1366" height="573" alt="food delivery website home" src="https://github.com/user-attachments/assets/73d5a157-9bbe-477c-b9e3-475a67acf05c" />
 
-## Features
+
+## Features 
+
 
 - **Intuitive Interface**: Navigate seamlessly through the website with a user-friendly interface.
 - **Diverse Cuisines**: Explore a variety of cuisines from local favorites to international specialties.
